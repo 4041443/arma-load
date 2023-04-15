@@ -1,0 +1,19 @@
+<span id="a">root@armastudios.uk</span>:<span id="b">~</span><span id="c">$</span> cd home/users/arma/
+<span id="a">root@armastudios.uk</span>:<span id="b">~</span><span id="c">$</span> ls
+info.txt socials.txt
+<span id="a">root@armastudios.uk</span>:<span id="b">~</span><span id="c">$</span> cat info.txt<br/><br/>
+<p><b>Info</b> 
+
+Name: ARMA Roleplay
+Established: July 2022
+Location: United Kingdom</p>
+
+<span id="a">root@armastudios.uk</span>:<span id="b">~</span><span id="c">$</span> cat socials.txt<br/><br/>
+<p><b>Socials</b>
+
+<i class="fab fa-twitter"></i> <a href="https://twitter.com/armastudiosuk">@armastudiosuk</a>
+<i class="fab fa-tiktok"></i> <a href="https://tiktok.com/@armastudiosuk">@armastudiosuk</a>
+<i class="fab fa-discord"></i> <a href="https://discord.gg/armarp">discord.gg/armarp</a>
+<i class="fa fa-globe"></i> <a href="https://armastudios.uk">armastudios.uk</a>
+
+<p><small>Copyright <i class="fa fa-copyright"></i> 2023 - <a href="#">https://armastudios.uk</a></small></p>
